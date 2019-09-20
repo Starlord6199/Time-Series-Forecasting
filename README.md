@@ -18,6 +18,12 @@ Directly run the python script .
  - p = No fo lag terms in the observation.
  - d = Degree of Differencing.
  - q = No of terms included in Moving Average.
+# Data Distribution
+![Optional Text](../master/images/histogram.png)
+# Results
+![Optional Text](../master/images/plot.png)
+ - Blue represents Actual values
+ - Red represents Predicted values
  
  
 
