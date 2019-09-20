@@ -17,7 +17,7 @@ Directly run the python script .
  ARIMA model takes 3 parameters
  - p = No fo lag terms in the observation.
  - d = Degree of Differencing.
- - q = No fo terms included in Moving Average.
+ - q = No of terms included in Moving Average.
  
  
 
