@@ -24,6 +24,6 @@ Directly run the python script .
 ![Optional Text](../master/images/plot.png)
  - Blue represents Actual values
  - Red represents Predicted values
-This project is done in contibution 
+-This project is done in contibution 
  
 
