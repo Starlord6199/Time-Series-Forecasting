@@ -26,5 +26,3 @@ Directly run the python script .
  - Red represents Predicted values
 # This project is done in contibution 
  
-
-https://www.google.com/search?sxsrf=ACYBGNRFKOo-HLA_jU9DeCpzzOmEa-ondA%3A1573627417332&ei=GabLXdzqE7bYz7sP3sihuA8&q=github+collaborator+vs+contributor&oq=how+to+add+contributor+in+github&gs_l=psy-ab.1.0.0i71l8.0.0..21950...0.4..0.0.0.......0......gws-wiz.YHpon2qUcU4
